@@ -17,7 +17,7 @@ Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
   
 ## Analysis and Results of Data
 
-There weree six different machine learning methods used to analyze loan data from LendingClub, a popular lending services company. Each method is listed below with the typical drawback of that method (no method is perfect) and the results of each analysis.
+There are six different machine learning methods used to analyze loan data from LendingClub, a popular lending services company. Each method is listed below with the typical drawback of that method (no method is perfect) and the results of each analysis.
 
 **1. Oversampling**
 
