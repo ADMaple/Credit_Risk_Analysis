@@ -71,5 +71,16 @@ Ensemble learning methods use combined methods to predict and are best used when
 
 ![D3_BalancedRandomForest](https://user-images.githubusercontent.com/108022219/198176930-9844c8f2-e8bc-4525-808a-a30bfc73e41a.png)
 
+**6. Ensemble Learning with Easy Ensemble**
+
+Ensemble learning methods use combined methods to predict and are best used when performance on a predictive modeling project is the most important outcome. The reasoning for the higher performance is not always easy to decipher though, and depending on the size of the dataset, ensemble modeling can end up using far more resources.
+
+-Accuracy Score: 93%
+-Confusion Matrix and Classification Report
+
+![D3_Ensemble](https://user-images.githubusercontent.com/108022219/198178279-65f2cb2b-255f-4287-b5f7-013acb6122f0.png)
+
+
 ## Summary 
+The final Easy Ensemble learning method produed the highest accuracy score (93%) and the highest F1 score, as well as great precision and sensitivity scores, it would appear to be the best method for predicting risk for this data.
 
